@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">praktikum2</string>
+    <string name="stringProfile">
+       Original Name \t : がうる・ぐら
+        \n Gender \t\t\t\t\t\t\t\t :
+        \n Age \t\t\t\t\t\t\t\t\t\t\t : 9485
+        \n Brithday \t\t\t\t\t\t\t : 20 June
+        \n Height \t\t\t\t\t\t\t\t : 141 cm
+
+    </string>
+    <string name="stringShort">
+        A descendant of the Lost City of Atlantis, who swam to Earth while saying, "It's so boring down there LOLOLOL!" Gura bought her clothes (and her shark hat) in the human world and she really loves them. In her spare time, she enjoys talking to marine life.
+    </string>
+</resources>
